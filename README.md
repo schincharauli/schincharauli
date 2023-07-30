@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Salome Tchintcharauli</h1>
-
 <h3 align="center">A Inquisitive developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schincharauli&label=Profile%20views&color=0e75b6&style=flat" alt="schincharauli" /> </p>
